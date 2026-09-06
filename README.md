@@ -1,4 +1,4 @@
-# Hi there, I'm Hussain Imad Maash 👋
+# Hi there, I'm Hussain emad Mash 👋
 
 Computer Science Graduate from Umm Al-Qura University | Full-Stack & Mobile App Developer 💻📱
 
