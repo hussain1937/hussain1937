@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Hussain Imad Maash 👋
 
-<!--
-**hussain1937/hussain1937** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Graduate from Umm Al-Qura University | Full-Stack & Mobile App Developer 💻📱
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 B.S. in Computer Science from Umm Al-Qura University (Class of 2026 August).
+- 💻 Experienced in building complete solutions through Full-Stack Web Development and Mobile App Development.
+- 🛠️ Deeply interested in Network Engineering, Custom PC Building, Server Administration, and Virtualization.
+- 📫 How to reach me: [https://www.linkedin.com/in/hussain-mash/] | [husenemad12@gmail.com]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack & Skills
+- **Mobile Development:** Flutter, Dart
+- **Web Development:** Node.js, PHP, HTML, CSS, JavaScript
+- **Databases:** MySQL
+- **IT & Infrastructure:** IT Support, Network Troubleshooting (CCNA Prep), Windows Virtualization
+
+## 📂 Featured Projects
+- 🚚 [**Darbak**](https://github.com/hussain1937/Darbak): My senior graduation project. A smart logistics and freight bidding mobile application built with Flutter, Node.js, and MySQL. Showcased at the Career and Innovation Exhibition.
+- 🏛️ [**Visits-Systems**](https://github.com/hussain1937/Visits-Systems): A web application for managing Dean's visits, developed during my cooperative training internship.
+- 🧠 [**Sentiment-Classification-NLP**](https://github.com/hussain1937/Sentiment-Classification-NLP): A collaborative Natural Language Processing (NLP) project focusing on text and sentiment classification.
+- 🦻 [**SafeHear-AI**](https://github.com/hussain1937/SafeHear-AI): A collaborative software project leveraging Artificial Intelligence technologies.
+- 📱 [**Sahilha-**](https://github.com/hussain1937/Sahilha-): A mobile application built collaboratively to provide accessible technical solutions.
