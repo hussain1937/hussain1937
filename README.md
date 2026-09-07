@@ -16,7 +16,11 @@ Computer Science Graduate from Umm Al-Qura University | Full-Stack & Mobile App 
 - **Databases:** MySQL
 - **IT & Infrastructure:** IT Support, Network Troubleshooting (CCNA Prep), Windows Virtualization
 
-![Hussain's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hussain1937&theme=transparent&hide_border=true&title_color=36BCF7&icon_color=36BCF7)
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,php,mysql,html,css,js,java,windows" />
+  </a>
+</div>
 
 
 ## 📂 Featured Projects
