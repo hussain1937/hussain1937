@@ -1,4 +1,7 @@
 # Hi there, I'm Hussain Emad Mash 👋
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=false&vCenter=true&width=600&lines=Computer+Science+Graduate;Full-Stack+Web+Developer;Mobile+App+Developer+(Flutter);Network+%26+Virtualization+Enthusiast" alt="Typing SVG" />
+</a>
 
 Computer Science Graduate from Umm Al-Qura University | Full-Stack & Mobile App Developer 💻📱
 
