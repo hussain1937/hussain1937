@@ -16,7 +16,8 @@ Computer Science Graduate from Umm Al-Qura University | Full-Stack & Mobile App 
 - **Databases:** MySQL
 - **IT & Infrastructure:** IT Support, Network Troubleshooting (CCNA Prep), Windows Virtualization
 
-![Hussain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hussain1937&show_icons=true&theme=transparent&hide_border=true&title_color=36BCF7&icon_color=36BCF7&.svg)
+![Hussain's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hussain1937&theme=transparent&hide_border=true&title_color=36BCF7&icon_color=36BCF7)
+
 
 ## 📂 Featured Projects
 - 🚚 [**Darbak**](https://github.com/hussain1937/Darbak): My senior graduation project. A smart logistics and freight bidding mobile application built with Flutter, Node.js, and MySQL. Showcased at the Career and Innovation Exhibition.
