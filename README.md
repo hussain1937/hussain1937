@@ -20,3 +20,4 @@ Computer Science Graduate from Umm Al-Qura University | Full-Stack & Mobile App 
 - 🧠 [**Sentiment-Classification-NLP**](https://github.com/hussain1937/Sentiment-Classification-NLP): A collaborative Natural Language Processing (NLP) project focusing on text and sentiment classification.
 - 🦻 [**SafeHear-AI**](https://github.com/hussain1937/SafeHear-AI): A collaborative software project leveraging Artificial Intelligence technologies.
 - 📱 [**Sahilha-**](https://github.com/hussain1937/Sahilha-): A mobile application built collaboratively to provide accessible technical solutions.
+- 🚀 **[AlgoLearn](https://github.com/hussain1937/AlgoLearn)**: An interactive Java desktop application for visualizing sorting and searching algorithms step-by-step, showcasing OOP and Data Structures.
