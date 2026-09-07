@@ -16,11 +16,7 @@ Computer Science Graduate from Umm Al-Qura University | Full-Stack & Mobile App 
 - **Databases:** MySQL
 - **IT & Infrastructure:** IT Support, Network Troubleshooting (CCNA Prep), Windows Virtualization
 
-<div align="center">
-
 ![Hussain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hussain1937&show_icons=true&theme=transparent&hide_border=true&title_color=36BCF7&icon_color=36BCF7)
-
-</div>
 
 
 ## 📂 Featured Projects
