@@ -1,6 +1,7 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=36BCF7&center=false&vCenter=true&width=800&lines=Hi+there,+I'm+Hussain+Emad+Mash+👋" alt="Typing SVG" />
 </a>
+
 Computer Science Graduate from Umm Al-Qura University | Full-Stack & Mobile App Developer 💻📱
 
 ## 🚀 About Me
