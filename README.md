@@ -8,7 +8,7 @@ Computer Science Graduate from Umm Al-Qura University | Full-Stack & Mobile App 
 - 🎓 B.S. in Computer Science from Umm Al-Qura University (Class of 2026 August).
 - 💻 Experienced in building complete solutions through Full-Stack Web Development and Mobile App Development.
 - 🛠️ Deeply interested in Network Engineering, Custom PC Building, Server Administration, and Virtualization.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hussain-mash/) | [Email](mailto:husenemad12@gmail.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hussain-mash/) | [Email](mailto:hussain.mash@outlook.com)
 
 ## 🛠️ Tech Stack & Skills
 - **Mobile Development:** Flutter, Dart
